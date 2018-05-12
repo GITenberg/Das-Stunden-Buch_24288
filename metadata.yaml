@@ -1,0 +1,30 @@
+_repo: Das-Stunden-Buch_24288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rilke, Rainer Maria
+    birthdate: 1875
+    deathdate: 1926
+    gutenberg_agent_id: '846'
+    url: http://www.gutenberg.org/2009/agents/846
+    wikipedia: http://en.wikipedia.org/wiki/Rainer_Maria_Rilke
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24288'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 20th century'
+tableOfContents: "Vom mœnchischen Leben\r\nVon der Pilgerschaft\r\nVon der Armuth\
+  \ und vom Tode"
+title: Das Stunden-Buch
+url: http://www.gutenberg.org/ebooks/24288
